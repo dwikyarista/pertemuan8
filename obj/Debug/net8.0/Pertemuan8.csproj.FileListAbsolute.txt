@@ -1,0 +1,15 @@
+D:\Amikom\All\Dwiky\program\Pertemuan8\bin\Debug\net8.0\Pertemuan8.exe
+D:\Amikom\All\Dwiky\program\Pertemuan8\bin\Debug\net8.0\Pertemuan8.deps.json
+D:\Amikom\All\Dwiky\program\Pertemuan8\bin\Debug\net8.0\Pertemuan8.runtimeconfig.json
+D:\Amikom\All\Dwiky\program\Pertemuan8\bin\Debug\net8.0\Pertemuan8.dll
+D:\Amikom\All\Dwiky\program\Pertemuan8\bin\Debug\net8.0\Pertemuan8.pdb
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\Pertemuan8.csproj.AssemblyReference.cache
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\Pertemuan8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\Pertemuan8.AssemblyInfoInputs.cache
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\Pertemuan8.AssemblyInfo.cs
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\Pertemuan8.csproj.CoreCompileInputs.cache
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\Pertemuan8.dll
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\refint\Pertemuan8.dll
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\Pertemuan8.pdb
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\Pertemuan8.genruntimeconfig.cache
+D:\Amikom\All\Dwiky\program\Pertemuan8\obj\Debug\net8.0\ref\Pertemuan8.dll
